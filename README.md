@@ -22,6 +22,15 @@ asp.net application basics
 repositories 
 pipelines 
 
+iac 
+- bicep
+- terraform
+
+architecture 
+
+- principles
+
+
 Github 
 
 Agile/Scrum 
